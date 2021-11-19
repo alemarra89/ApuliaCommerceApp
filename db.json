@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pane di Matera 500gr",
+      "description": "Il Pane di Matera è ritenuto uno dei migliori pani d’Italia, simbolo culinario del territorio lucano. E’ ottenuto dalla semola rimacinata di grano duro 100% lucana, di altissima qualità e grazie al lievito naturale si distingue per l’alta digeribilità e notevole durata.",
+      "price": 2.5,
+      "photo": "https://m.media-amazon.com/images/I/713fhvd-4hL._AC_SL1100_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Salmone affumicato norvegese 2x125gr",
+      "description": "Il pesce gioca un ruolo molto importante in una dieta sana. È ricco di importanti nutrienti, come proteine, vitamina D ed acidi grassi omega 3, tra gli altri. Le prove dei suoi benefici sono così evidenti che L'American Heart Association (Associazione americana che si occupa della salute del cuore) consiglia di consumare pesce due volte a settimana. Tuttavia, tutti noi conosciamo qualcuno che non può neanche vederlo. E le motivazioni di questa avversione possono essere dovute al suo odore ed al suo prezzo o alla difficoltà nel cucinarlo e conservarlo adeguatamente.",
+      "price": 9.99,
+      "photo": "https://m.media-amazon.com/images/I/518WXmCKo5L._AC_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Penne rigate integrali 500gr",
+      "description": "Dal diametro ridotto e fonte naturale di fibre, si caratterizzano per la loro proverbiale capacità di trattenere il condimento.",
+      "price": 1.09,
+      "photo": "https://m.media-amazon.com/images/I/71dEfQfH1qL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Aperol Aperitivo 700ml",
+      "description": "Una magica infusione di arancia amara e dolce, ha un gusto unico. Leggermente alcolico, nota d'arancia con accattivanti profumi di erbe complesse armonizzati con un tocco di vaniglia.",
+      "price": 7.26,
+      "photo": "https://m.media-amazon.com/images/I/71OebP6nq+L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Caffè Borbone Respresso Miscela Blu x100",
+      "description": "Ottenuta dalla selezione di miscele per un equilibrio perfetto tra corpo, persistenza e dolcezza. La miscela Blu si caratterizza per il suo sapore nobile, il carattere vigoroso e l’aroma intenso.",
+      "price": 21,
+      "photo": "https://m.media-amazon.com/images/I/71v9iNeXZXL._AC_SL1414_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Orzo Bimbo Capsule x10",
+      "description": "L’orzo è uno dei cereali più antichi che, appositamente tostato, permette di ricavare una bevanda naturale, senza caffeina e senza controindicazioni, adatta sia agli adulti che ai bambini. OrzoBimbo è l'orzo per eccellenza delle famiglie italiane dal 1970.",
+      "price": 2.99,
+      "photo": "https://m.media-amazon.com/images/I/81zHok+oOmL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Yoga Succo Pesca con Polpa, 1L",
+      "description": "Purea di pesca, acqua, zucchero, sciroppo di glucosio-fruttosio, acidificante acido citrico, antiossidante acido ascorbico.",
+      "price": 1.15,
+      "photo": "https://m.media-amazon.com/images/I/61o0D0We5VL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sant'Anna acqua naturale 500 ML 24 PZ",
+      "description": "Acqua Sant'Anna è una delle acque minerali naturali più alte, incontaminate, leggere e povere di sodio al mondo. In meno di 48 ore Acqua Sant'Anna, arriva dai circa 2000 metri alpini direttamente alle nostre tavole fresca di sorgente, controllata e custodita in tutte le sue qualità. Questi e altri valori l'hanno eletta l'acqua preferita dagli italiani. Confezione da 24 bottiglie in pet da 50 cl cadauna.",
+      "price": 13.5,
+      "photo": "https://m.media-amazon.com/images/I/31inDVcbAIL._AC_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Red Bull Energy Drink, 250 ml (24 Lattine)",
+      "description": "La formula speciale di Red Bull Energy Drink contiene ingredienti di altissima qualità: Caffeina, Taurina, Vitamine del gruppo B, Zuccheri e Acqua Alpina.",
+      "price": 25.26,
+      "photo": "https://m.media-amazon.com/images/I/71OXcUKv-ML._AC_SL1500_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ciobar Cioccolato Bianco 105g 5 buste",
+      "description": "Zucchero Sciroppo di glucosio Panna in polvere Sale Aromi Colorante (caroteni) Può contenere grano, uova, frutta a guscio, soia Amido di mais Siero di latte in polvere concentrato in proteine.",
+      "price": 4.5,
+      "photo": "https://m.media-amazon.com/images/I/71dg08sTaML._AC_SL1500_.jpg"
+    }
+  ]
+}
