@@ -69,41 +69,6 @@
       "description": "Zucchero Sciroppo di glucosio Panna in polvere Sale Aromi Colorante (caroteni) Può contenere grano, uova, frutta a guscio, soia Amido di mais Siero di latte in polvere concentrato in proteine.",
       "price": 4.5,
       "photo": "https://m.media-amazon.com/images/I/71dg08sTaML._AC_SL1500_.jpg"
-    },
-    {
-      "name": "Fabio",
-      "description": "Prodotto nella lontana Taviano DOC DOP DOT",
-      "photo": "https://media-exp1.licdn.com/dms/image/D4D35AQE32A8QHWuwrw/profile-framedphoto-shrink_800_800/0/1635347199903?e=1637413200&v=beta&t=A4Yd1cY9BIjjnmWPN2upmvQgfbHn1G2CNQsjuMB7K1A",
-      "price": 1000,
-      "id": 11
-    },
-    {
-      "name": "Puneet",
-      "description": "Con la foto di Fabio",
-      "photo": "https://media-exp1.licdn.com/dms/image/D4D35AQE32A8QHWuwrw/profile-framedphoto-shrink_800_800/0/1635347199903?e=1637413200&v=beta&t=A4Yd1cY9BIjjnmWPN2upmvQgfbHn1G2CNQsjuMB7K1A",
-      "price": 1,
-      "id": 12
-    },
-    {
-      "name": "Mingo",
-      "description": "L'amico di Fabio",
-      "photo": "https://www.caffeinamagazine.it/wp-content/uploads/2019/10/fabio5.jpeg",
-      "price": 55,
-      "id": 13
-    },
-    {
-      "name": "Fabio Negro",
-      "description": "test",
-      "photo": "initialState",
-      "price": 1,
-      "id": 14
-    },
-    {
-      "name": "test",
-      "description": "test",
-      "photo": "https://media-exp1.licdn.com/dms/image/C4D03AQEKxrbEs1p7_w/profile-displayphoto-shrink_800_800/0/1544206024264?e=1642636800&v=beta&t=njHVWO7Fto_FR9Wr2HFjG7GQ9q0e-doK2qEFI7Bxt2E",
-      "price": 1,
-      "id": 15
     }
   ]
 }
