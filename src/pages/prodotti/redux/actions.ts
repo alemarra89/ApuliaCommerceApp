@@ -1,4 +1,4 @@
-import { createAsyncThunk } from "@reduxjs/toolkit";
+import { createAction, createAsyncThunk } from "@reduxjs/toolkit";
 import { Product } from "../../../model/Product";
 import { ThunkApiConfig } from "../../../redux";
 
@@ -16,3 +16,25 @@ export const getProdottiAction = createAsyncThunk<Product[], void, ThunkApiConfi
         return prodotti;
     }
 );
+
+export const addProdottiAction = createAsyncThunk<boolean, Omit<Product, 'id'>, ThunkApiConfig>(
+    'prodotti/addProdotti', async (prodotto, { getState }) => {
+        const result = await fetch("http://10.0.2.2:3004/products", {
+            method: "POST",
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                name: prodotto.name,
+                description: prodotto.description,
+                photo: prodotto.photo,
+                price: Number(prodotto.price)
+            })
+        });
+        return result.ok;
+    }
+);
+
+export const resetFormAction = createAction<void, 'prodotti/resetForm'>('prodotti/resetForm');
+
